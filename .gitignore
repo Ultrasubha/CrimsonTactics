@@ -1,0 +1,17 @@
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+BuildPlayer/
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.suo
+*.tmp
+*.swp
+*.DS_Store
